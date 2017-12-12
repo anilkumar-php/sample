@@ -5,4 +5,8 @@ welcome to foods
 chicken briyani
 mutton briyani
 
+pizza
+burger 
+
+thank you ;)
 
